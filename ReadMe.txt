@@ -1,0 +1,1 @@
+Unzip the website.zip file and insert the file in the xampp/htdocs directory.
